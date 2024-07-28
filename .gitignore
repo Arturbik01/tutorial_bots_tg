@@ -5,6 +5,7 @@ target/
 
 logs/*
 .gitignore
+!**/src/main/resources/application*
 
 ### IntelliJ IDEA ###
 .idea/modules.xml

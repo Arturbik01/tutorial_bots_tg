@@ -1,6 +1,0 @@
-bot:
-  telegram:
-    token: 7144186585:AAHnU6sLPhKLB55YJyV17gJDdfb7LdBTlPY
-    username: Meow_sofi_dev_stand_bot
-server:
-  port: 8084
